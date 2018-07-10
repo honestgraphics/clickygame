@@ -15,14 +15,10 @@
   width: 66.6%;
 }
 
-.flex-item3 {
-  margin-left: 50px;
-}
-
 .navbar li {
   display: inline-block;
   padding: 26px 0;
-  width: 100%;
+  width: 33.3%;
   text-align: center;
 }
 
@@ -194,4 +190,9 @@ nav .correct {
 nav .incorrect {
   -webkit-animation: incorrect .5s .0125s;
   animation: incorrect .5s .0125s
+}
+
+.navbar-nav {
+  display: flex;
+  justify-content: space-between;
 }
