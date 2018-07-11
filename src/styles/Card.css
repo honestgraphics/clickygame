@@ -1,5 +1,5 @@
 .card {
-  width: 200px;
+  width: 100%;
   margin: 20px;
   cursor: pointer;
 }
@@ -84,11 +84,11 @@
 }
 
 /* @media (max-width:750px) { */
-  .click-item {
+  .card {
       margin: 10px
   }
 
 /* @media (max-width:500px) { */
-  .click-item {
+  .card {
       margin: 10px
   }
