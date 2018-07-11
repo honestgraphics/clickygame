@@ -4,19 +4,19 @@ Listen to Songs to make sure that you are ready to play them live. Add the neces
 
 
 
-![audition](screenshot url here soon)
+![clickygame](https://snag.gy/gS8YoX.jpg)
 
 ## Background
-This app is called Audition and it was done as part of Project 3 for the February 2018 UNC Coding Boot Camp.
+This app is called Clicky Game and it was done as part of React HW #1 for the February 2018 UNC Coding Boot Camp.
 
-This app lets you listen to songs to make sure that you are ready to play them live. Add the necessary data about the songs for keeping track of what is played. Submit for Manager Approval. Then add to the Database if everything is correct.
+This app lets you try to choose a character without choosing the same one twice. After each choice the character cards are shuffled and then you get to choose again. If you choose a character that you previously chose, you have to start over. If your score is higher than it previously was, then the new score is entered into high score in the nav bar.
 
 ## How to get started with the app
-The application is online at [Heroku](Heroku link will be here). You will more than likely have to wait a little while after visiting this url before Heroku spins up the virtual machine which hosts the project.
+The application is online at [Heroku](https://morning-reef-70840.herokuapp.com/). You will more than likely have to wait a little while after visiting this url before Heroku spins up the virtual machine which hosts the project.
 
-Please install Git Bash, Robo 3T, and Node.js if you want to use the app locally. 
+Please install Git Bash and Node.js if you want to use the app locally. 
 
-After all of these are installed, download the Audition Github Repo.
+After all of these are installed, download the Clicky Game Github Repo.
 
 
 Next install the project dependencies by entering:
@@ -28,7 +28,7 @@ The project is now ready to run!
 
 Start the server by typing in:
 
-    yarn run dev
+    yarn start
     
       OR
     
@@ -41,10 +41,5 @@ Open a browser and navigate to:
 in the address line.
 
 
-<how to use the app will go here>
-
 ## Authors
 This app was built by Jeannie Rose.
-
-## Issues we encountered
-Issues we encountered were /<*will be filled in here*>/
